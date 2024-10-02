@@ -6,11 +6,12 @@ import javax.swing.*;
 import java.util.Scanner;
 
 public class Main {
+
     public static void main(String[] args) {
         Scanner scan = new Scanner(System.in);
         CarbonCalculatorController calculate = new CarbonCalculatorController();
 
-        System.out.println("Digite o consumo mensal de em energia (em kwh): ");
+        System.out.println("Digite o consumo mensal de energia (em kwh): ");
         double energyConsumption = scan.nextDouble();
 
         System.out.println("Digite a distância percorrida semanalmente de carro (em km): ");
