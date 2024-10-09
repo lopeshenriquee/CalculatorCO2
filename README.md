@@ -17,7 +17,7 @@ A **Calculadora de Pegada de Carbono** é uma ferramenta simples e acessível, d
 - **Versionamento:** Git
 
 ## Requisitos
-- **Java 11+**
+- **Java 17+**
 - **MySQL 8.0+**
 - **NetBeans 12.0+**
 - **Git**
