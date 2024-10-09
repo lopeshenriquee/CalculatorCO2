@@ -26,4 +26,4 @@ A **Calculadora de Pegada de Carbono** é uma ferramenta simples e acessível, d
 
 1. **Clone o repositório:**
    ```bash
-   git clone https://github.com/usuario/calculadora-pegada-carbono.git
+   git clone https://github.com/lopeshenriquee/CalculatorCO2.git
